@@ -1,0 +1,25 @@
+{
+  "name": "TELE",
+  "logoURI": "https://www.telewallet.org/images/256.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2022-07-15T05:37:52.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xdE28b7965113310967a89DA005349E5043E410ac",
+      "name": "TELE",
+      "symbol": "TELE",
+      "decimals": 18,
+      "logoURI": "https://www.telewallet.org/images/256.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
